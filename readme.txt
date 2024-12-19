@@ -1,4 +1,4 @@
-# **Entrega Experiencia 3**
+# **Entrega Experiencia ET**
 
 **Autor**: Cristian Gonzalez y Felipe Carrillo
 
